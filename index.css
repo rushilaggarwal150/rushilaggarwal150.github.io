@@ -40,6 +40,10 @@ ul, ol {
     margin-left: 20px; /* Add left margin to lists for better indentation */
 }
 
+li {
+    font-size: 15px;
+}
+
 /* Style for Form */
 form {
     max-width: 400px; /* Set maximum width for the form */
