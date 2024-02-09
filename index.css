@@ -2,11 +2,13 @@
 h1 {
     color: #000000; /* Set heading color */
     font-size: 32px;
+    font-weight: bold; 
 }
 
 h2 {
     color: #000000; /* Set heading color */
     margin-top: 20px; /* Add top margin to heading */
+    font-style: italic;
 }
 
 /* Set Font Size */
@@ -54,13 +56,4 @@ input[type="email"],
 input[type="submit"] {
     width: 100%; /* Make form input fields and submit button full-width */
     margin-bottom: 15px; /* Add bottom margin to form input fields */
-}
-
-/* Style for Semantic Text Emphasis */
-strong {
-    font-weight: bold; /* Set bold font weight for strong text */
-}
-
-em {
-    font-style: italic; /* Set italic font style for emphasized text */
 }
