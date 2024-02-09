@@ -1,0 +1,66 @@
+/* Style for Headings */
+h1 {
+    color: #3366cc; /* Set heading color */
+    text-decoration: underline; /* Add underline to heading */
+}
+
+h2 {
+    color: #009900; /* Set heading color */
+    margin-top: 20px; /* Add top margin to heading */
+}
+
+/* Set Font Size */
+body {
+    font-size: 16px; /* Set the base font size for the entire document */
+}
+
+p {
+    line-height: 1.5; /* Set line height for paragraphs */
+}
+
+/* Additional Styles (Optional) */
+section {
+    margin-bottom: 20px; /* Add bottom margin to sections for better spacing */
+}
+
+/* Style for Hyperlinks */
+a {
+    color: #cc0000; /* Set hyperlink color */
+    text-decoration: none; /* Remove underline from hyperlinks */
+}
+
+a:hover {
+    text-decoration: underline; /* Add underline on hover for hyperlinks */
+}
+
+/* Style for Lists */
+ul, ol {
+    margin-left: 20px; /* Add left margin to lists for better indentation */
+}
+
+/* Style for Form */
+form {
+    max-width: 400px; /* Set maximum width for the form */
+    margin: 0 auto; /* Center the form horizontally */
+}
+
+label {
+    display: block; /* Display labels as block elements for better spacing */
+    margin-bottom: 10px; /* Add bottom margin to labels */
+}
+
+input[type="text"],
+input[type="email"],
+input[type="submit"] {
+    width: 100%; /* Make form input fields and submit button full-width */
+    margin-bottom: 15px; /* Add bottom margin to form input fields */
+}
+
+/* Style for Semantic Text Emphasis */
+strong {
+    font-weight: bold; /* Set bold font weight for strong text */
+}
+
+em {
+    font-style: italic; /* Set italic font style for emphasized text */
+}
