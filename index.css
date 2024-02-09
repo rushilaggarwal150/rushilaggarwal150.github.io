@@ -11,6 +11,11 @@ h2 {
     font-style: italic;
 }
 
+img {
+    width: 25%;
+    height: 25%;
+}
+
 /* Set Font Size */
 body {
     font-size: 16px; /* Set the base font size for the entire document */
@@ -18,6 +23,7 @@ body {
 
 p {
     line-height: 1.5; /* Set line height for paragraphs */
+    font-size: 18px;
 }
 
 /* Additional Styles (Optional) */
@@ -36,12 +42,9 @@ a:hover {
 }
 
 /* Style for Lists */
-ul, ol {
+ul, li {
     margin-left: 20px; /* Add left margin to lists for better indentation */
-}
-
-li {
-    font-size: 15px;
+    font-size: 20px;
 }
 
 /* Style for Form */
