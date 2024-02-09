@@ -1,11 +1,11 @@
 /* Style for Headings */
 h1 {
-    color: #3366cc; /* Set heading color */
-    text-decoration: underline; /* Add underline to heading */
+    color: #000000; /* Set heading color */
+    font-size: 32px;
 }
 
 h2 {
-    color: #009900; /* Set heading color */
+    color: #000000; /* Set heading color */
     margin-top: 20px; /* Add top margin to heading */
 }
 
